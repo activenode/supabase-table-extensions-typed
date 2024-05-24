@@ -5,6 +5,7 @@ type PostgresTables = PostgresSchema['public']['Tables'];
 // THIS IS THE ONLY THING YOU EDIT
 // <START>
 type TableExtensions = { 
+  /**
   my_existing_table_name: {
     my_json_column_override: {
       tel: string;
@@ -12,6 +13,7 @@ type TableExtensions = {
       preset_id?: number;
     };
   };
+  **/
 };
 // <END>
 // ☝️ this is the only thing you edit
