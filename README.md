@@ -23,3 +23,13 @@ Here's the solution: An easy way to adapt the derived types and having fully typ
 
 That's it.
 
+## You can support me
+
+By supporting me with coffee at https://ko-fi.com/activenode and 
+by following me on your favorite channels:
+
+- [YouTube](https://www.youtube.com/@activenode)
+- [X/Twitter](https://x.com/activenode)
+- [Mastodon](https://mastodon.social/@activenode)
+- [Bluesky](https://bsky.app/profile/activenode.bsky.social)
+
